@@ -24,6 +24,11 @@ body{
     color: white;
     margin: 0px auto;
 }
+@media screen and (max-width:720px) {
+    .container{
+        width: 80%;
+    }
+}
 @media screen and (max-width:480px) {
     .container{
         width: 80%;
